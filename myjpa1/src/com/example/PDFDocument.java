@@ -9,7 +9,7 @@ import javax.persistence.*;
  * Entity implementation class for Entity: PDFDocument
  *
  */
-@Entity
+
 
 public class PDFDocument implements Serializable {
 
